@@ -6,5 +6,4 @@ class A:
     def __init__(self):
         print("This is a class A")
 
-b = A()
-print(b.a)
+
